@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a56e9133f93842c6906e4bea6995aa4, type: 3}
+  m_Name: Body
+  m_EditorClassIdentifier: 
+  head: 2
+  hips: 0
+  leftArm: 0
+  rightArm: 0
+  leftLeg: 0
+  rightLeg: 0
+  powerInfo:
+    damage: 0.17
+    speed: 0.239
+    health: 0.259
+  defaultBody:
+    damage: 0.1
+    speed: 0.1
+    health: 0.1
+  fox:
+    head:
+      damage: 0.075
+      speed: 0.129
+      health: 0.168
+    hips:
+      damage: 0.036
+      speed: 0.135
+      health: 0.132
+    arm:
+      damage: 0.122
+      speed: 0.033
+      health: 0.098
+    leg:
+      damage: 0.049
+      speed: 0.256
+      health: 0.051
+  tiger:
+    head:
+      damage: 0.245
+      speed: 0.085
+      health: 0.094
+    hips:
+      damage: 0.236
+      speed: 0.094
+      health: 0.248
+    arm:
+      damage: 0.425
+      speed: 0.139
+      health: 0.207
+    leg:
+      damage: 0.107
+      speed: 0.229
+      health: 0.149
+  deer:
+    head:
+      damage: 0.142
+      speed: 0.139
+      health: 0.264
+    hips:
+      damage: 0.159
+      speed: 0.165
+      health: 0.534
+    arm:
+      damage: 0.085
+      speed: 0.13
+      health: 0.326
+    leg:
+      damage: 0.043
+      speed: 0.252
+      health: 0.242
+  moose:
+    head:
+      damage: 0.191
+      speed: 0.02
+      health: 0.252
+    hips:
+      damage: 0.152
+      speed: 0.142
+      health: 0.836
+    arm:
+      damage: 0.194
+      speed: 0.04
+      health: 0.155
+    leg:
+      damage: 0.033
+      speed: 0
+      health: 0.159
+  boar:
+    head:
+      damage: 0
+      speed: 0
+      health: 0.146
+    hips:
+      damage: 0
+      speed: 0
+      health: 0.403
+    arm:
+      damage: 0
+      speed: 0
+      health: 0.21
+    leg:
+      damage: 0
+      speed: 0
+      health: 0.306
+  wolf:
+    head:
+      damage: 0.142
+      speed: 0.146
+      health: 0.04
+    hips:
+      damage: 0.165
+      speed: 0.22
+      health: 0.043
+    arm:
+      damage: 0.274
+      speed: 0.11
+      health: 0.13
+    leg:
+      damage: 0.13
+      speed: 0.47
+      health: 0.13

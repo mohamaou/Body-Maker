@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c829de3aecd9405d858d253cb666155, type: 3}
+  m_Name: Animals
+  m_EditorClassIdentifier: 
+  fox: {fileID: 118900626980685464, guid: cc12c42f199c644bb9d6e9a978b673a3, type: 3}
+  tiger: {fileID: 118900626980685464, guid: f0cb2baa10a74483298c587561bc7e71, type: 3}
+  deer: {fileID: 118900626980685464, guid: c90fd9597d8c6458687d36e81d3277b1, type: 3}
+  moose: {fileID: 118900626980685464, guid: aa21765b58a6a46058e93be6bdfa5d32, type: 3}
+  boar: {fileID: 118900626980685464, guid: 907ad0edb168b4511943074388853d69, type: 3}
+  wolf: {fileID: 118900626980685464, guid: 0fb97670164bf47e5957493780b9c7f3, type: 3}
